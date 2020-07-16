@@ -78,6 +78,7 @@
 {"name":"Base16 Colors Light","url":"https://raw.githubusercontent.com/chriskempson/base16-textmate/master/themes/base16-colors.light.tmTheme","light":true},
 {"name":"Base16 Default Dark","url":"https://raw.githubusercontent.com/chriskempson/base16-textmate/master/themes/base16-default.dark.tmTheme","light":false},
 {"name":"Base16 Default Light","url":"https://raw.githubusercontent.com/chriskempson/base16-textmate/master/themes/base16-default.light.tmTheme","light":true},
+{"name":"Dobrov Light","url":"https://raw.githubusercontent.com/VicDobrov/dotfiles/master/sublime/Light-Dobrov.tmTheme","light":true},
 {"name":"Base16 Eighties Dark","url":"https://raw.githubusercontent.com/chriskempson/base16-textmate/master/themes/base16-eighties.dark.tmTheme","light":false},
 {"name":"Base16 Eighties Light","url":"https://raw.githubusercontent.com/chriskempson/base16-textmate/master/themes/base16-eighties.light.tmTheme","light":true},
 {"name":"Base16 Embers Dark","url":"https://raw.githubusercontent.com/chriskempson/base16-textmate/master/themes/base16-embers.dark.tmTheme","light":false},
